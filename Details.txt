@@ -1,0 +1,6 @@
+Checkout - 
+1. IRFS01 - 1 invoice Lisa, reprocessing with existing file by 4PM. File in promote script.
+2. Hold the data area in IRFS03
+3. Channel used for discussion - Slack	GAPTS CM8.6
+4. Holding saturday file in IRFS03. Job that will run on Monday morning. 
+5. IRFS01 - 4PM IST, 7AM Europe time- 
